@@ -1,8 +1,6 @@
 # animated-navigation
- 50projects50days 
-# Trilo-CSS
-Course: Advanced CSS and SASS
-##### Course: [50 Projects In 50 Days - HTML, CSS & JavaScript]
+#50projects50days 
+##### Course: 50 Projects In 50 Days - HTML, CSS & JavaScript
 ## Authors: Brad Traversy, Florin Pop
 ## Student: Arsonela Lalaj
 ##### [See the live demo ](https://arso-k.github.io/animated-navigation/)
